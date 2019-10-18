@@ -1,7 +1,6 @@
 +++
 author = "Henry Thoreau"
 date = "2019-10-01T13:00:00+00:00"
-draft = true
 hero = "/images/anomaly-oRskqiH7FNc-unsplash.jpg"
 title = "Why You Should Read More"
 type = "blog"
