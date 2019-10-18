@@ -31,6 +31,7 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/why-you-should-read-more.md
 - content/blog-posts/geneology-of-morals.md
 - content/blog-posts/Walking.md
 - content/blog-posts/sunflower-sutra.md
